@@ -1,0 +1,9 @@
+{
+  "name": "@divi/types",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "build:types": "tsc"
+  }
+}
